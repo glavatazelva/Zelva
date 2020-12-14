@@ -1,0 +1,28 @@
+p{
+	color:#ffff00;
+	background-color:#800000;
+}
+h1{
+	color:F5FF0D;
+	background-color:pink;
+}
+.ljubicastna{
+	background-color:#4B0082;
+}
+h2{
+	color:purple;
+	background-color:grey;
+}
+ol{
+	color:yellow;
+	background-color:blue;
+}
+.šahisti{
+background-color:#FF0000;
+}
+.anarhisti{
+background-color:#800000;}
+a:link{
+	background-color:yellow;
+	color:brown;
+}
